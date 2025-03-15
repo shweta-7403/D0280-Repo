@@ -65,5 +65,4 @@ The **DO280** course is designed to provide in-depth knowledge of **Red Hat Open
 
 ---
 
-This **README.md** serves as a structured reference for learning **OpenShift Administration (DO280)**. 🚀🔥
 
